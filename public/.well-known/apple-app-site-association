@@ -1,11 +1,15 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "6KEXA3SGKT.vn.com.aeon.kidsclub",
-        "paths": ["*"]
-      }
-    ]
-  }
-}
+      "details": [
+           {
+             "appID": "7HW5W5N2ZM.com.kd.aeonkids.beta",
+             "components": [
+               {
+                 "/": "/*",
+                 "comment": "Matches any URL from the site"
+               }
+             ]
+           }
+       ]
+   }
+ }
